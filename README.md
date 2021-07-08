@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kroobeet
 - 👀 I’m interested in Web-Dev
-- 🌱 I’m currently learning PHP (Laravel)
+- 🌱 I’m currently learning PHP (Laravel) and Python (Django)
 - 📫 How to reach me: telegram, instagram, vk, twitter, facebook: @kroobeet
 
 <!---
